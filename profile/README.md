@@ -1,5 +1,3 @@
-# Fastn Community
-
 Welcome to the fastn-community! Whether it's creating new components, reporting issues, or submitting pull requests, your contributions are valuable. 
 
 # Become a fastn Contributor
